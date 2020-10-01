@@ -1,4 +1,4 @@
-# Word-Cloud-Generator
+# Word-Cloud-Generator - an amazing project
 Project done during Google's Python Crash Course on Coursera
 
 Objectives of Project : 
